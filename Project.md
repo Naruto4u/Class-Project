@@ -22,4 +22,4 @@ Browser limitations and compatability issues.
 
 ## Resources:
 - GPT
-- ApeScript - https://www.apescript.com/backend/how-server-side-impact-performance/
+- [ApeScript](https://www.apescript.com/backend/how-server-side-impact-performance/)
