@@ -1,11 +1,12 @@
 # Class Project
-Browser limitations and compatability issues.
+## Browser limitations and compatability issues.
 
 #### Web browser apps can differ based on the code they use and the organizations that develop them. Not all browsers interpret code the same way; depending on their design, some may break due to how a website’s code is organized or compiled. In some cases, websites might look entirely different depending on how browsers process the code. These differences can impact site performance but are often addressed through future updates.
 #### An example would be a IoT application performing as expected in the supported browser, firefox, but you not being able to select any options in google chrome. 
 
 #### Browser limitations and compatability issues both come from the server side code that is run in order for the browsers to function. Depending on how the language works, it can slow down websites and max out website memory, which can break different functions that require information to be temporarily stored on your device.
 
+#### Due to these factors, all browsers have different loading speeds, memory usage, and features. Some browsers may support a wide variety of features, while some are very limited due to what code language they use. Some browsers are more secure than others due to code, and also the amount of security updates (and quality of said updates)
 
 ## Relation to other web topics:
 ### How do web servers and the programming behind websites affect how well browsers work?
@@ -19,6 +20,8 @@ Browser limitations and compatability issues.
   - Slow speeds/high data usage can slow down other website functions, and cause issues loading page content
   - Browsers can crash upon handling large files, especially with processing power limited devices
   - It can ruin the overall browsing experience
+### Web servers deliver content to browsers if local devices cannot support them.
+### Network speed affects loading times, and can remove large amounts of functionality from browsers if slow.
 
 ## Resources:
 - GPT
