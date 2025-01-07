@@ -46,11 +46,11 @@ This is not necessarily true. While some modern browsers support many web standa
 d. No impact, as browsers automatically handle all discrepancies.
 This is false. Browsers do not automatically handle discrepancies. Developers need to account for browser differences to ensure a consistent experience.
 
-## How do internet speed affect browser
+## How does internet speed affect a browser?
 ```
-a. Nothing browsers have no effect on how browsers function 
-b. The internet being fast makes the browser not load
-c. The internet being slow and have bad connection can cause the internet to buffer and not load
+a. Nothing, internet speed has no effect on how browsers function 
+b. The internet speed being fast makes the browser not load
+c. Internet speed and poor connection will cause the internet to buffer and not load.
 d. The internet being connected causes the browser to completly break
 ```
 The correct answer is: c. The internet being slow and having a bad connection can cause the internet to buffer and not load.
