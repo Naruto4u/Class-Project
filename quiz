@@ -1,0 +1,51 @@
+<h1>1. what problems could diffrent rendering tools between cause</h1>
+a. browsers using diffrent rendering tools could cause the code to be deleted.
+b. older versions could not be compatible with newer rendering tools causing cod not to run
+c. code may not be displayed correctly leading to a broken website
+d. no problems could arise from diffrent rendering tools between browsers
+
+The correct answer is c. Code may not be displayed correctly, leading to a broken website.
+
+Explanation:
+Different rendering engines (such as Blink for Chrome, Gecko for Firefox, or WebKit for Safari) can interpret HTML, CSS, and JavaScript differently. This means that a website might display inconsistently or incorrectly across different browsers. For example, the layout could break, images might not load, or styling could be applied incorrectly, making the website look "broken" in certain browsers.
+
+Here’s why the other options are incorrect:
+
+a. Browsers using different rendering tools could cause the code to be deleted.
+This is not true. Browsers may render code differently, but they won't delete it.
+
+b. Older versions could not be compatible with newer rendering tools causing code not to run.
+This is partially true in the context of older browsers (which may not support newer web standards), but it doesn't specifically address rendering engines. It's more about feature support than rendering tool incompatibility.
+
+d. No problems could arise from different rendering tools between browsers.
+This is false. Differences in rendering tools often lead to compatibility and display issues.
+
+2.What is a potential impact of inconsistent support for web standards across different browsers?
+a. The website will always perform faster on every browser.
+b. Some elements of the website may not work or display correctly in certain browsers.
+c. The website will automatically adjust to the most compatible browser.
+d. No impact, as browsers automatically handle all discrepancies.
+
+The correct answer is:
+
+b. Some elements of the website may not work or display correctly in certain browsers.
+
+Explanation:
+Inconsistent support for web standards across different browsers means that some features or elements may not work or display as intended in every browser. For example, certain CSS properties, HTML5 elements, or JavaScript features may not be supported in all browsers, leading to layout issues or broken functionality. Therefore, it's crucial to ensure compatibility through testing and fallback solutions.
+
+Here’s why the other options are incorrect:
+
+a. The website will always perform faster on every browser.
+This is not true. Performance can vary between browsers depending on how each one handles web content.
+
+c. The website will automatically adjust to the most compatible browser.
+This is not necessarily true. While some modern browsers support many web standards, they don’t automatically adjust to be fully compatible with all features.
+
+d. No impact, as browsers automatically handle all discrepancies.
+This is false. Browsers do not automatically handle discrepancies. Developers need to account for browser differences to ensure a consistent experience.
+
+3. How do internet speed affect browser
+a. nothing browsers have no effect on how browsers function 
+b. the internet being fast makes the browser not load and 
+c.
+d.
