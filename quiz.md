@@ -1,4 +1,4 @@
-## What problems could diffrent rendering tools cause?
+## What problems could different rendering tools cause?
 ```
 a. Browsers using diffrent rendering tools could cause the code to be deleted.
 b. Older versions could not be compatible with newer rendering tools causing cod not to run
