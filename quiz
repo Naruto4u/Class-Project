@@ -1,4 +1,4 @@
-<h1>1. what problems could diffrent rendering tools between cause</h1>
+1. what problems could diffrent rendering tools between cause
 a. browsers using diffrent rendering tools could cause the code to be deleted.
 b. older versions could not be compatible with newer rendering tools causing cod not to run
 c. code may not be displayed correctly leading to a broken website
@@ -46,6 +46,8 @@ This is false. Browsers do not automatically handle discrepancies. Developers ne
 
 3. How do internet speed affect browser
 a. nothing browsers have no effect on how browsers function 
-b. the internet being fast makes the browser not load and 
-c.
+b. the internet being fast makes the browser not load and buffer
+c. the internet being slow and haveing a bad connection can cause the browser to tkae longer to load
 d.
+
+The correct awnser is C 
