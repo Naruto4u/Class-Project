@@ -1,8 +1,8 @@
 # What problems could diffrent rendering tools cause?
-a. browsers using diffrent rendering tools could cause the code to be deleted.
-b. older versions could not be compatible with newer rendering tools causing cod not to run
-c. code may not be displayed correctly leading to a broken website
-d. no problems could arise from diffrent rendering tools between browsers
+a.   browsers using diffrent rendering tools could cause the code to be deleted.
+b.   older versions could not be compatible with newer rendering tools causing cod not to run
+c.   code may not be displayed correctly leading to a broken website
+d.   no problems could arise from diffrent rendering tools between browsers
 
 The correct answer is c. Code may not be displayed correctly, leading to a broken website.
 
