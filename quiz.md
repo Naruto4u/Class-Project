@@ -1,10 +1,8 @@
-# What problems could diffrent rendering tools cause?
-```a.   browsers using diffrent rendering tools could cause the code to be deleted.
-
+## What problems could diffrent rendering tools cause?
+```
+a.   browsers using diffrent rendering tools could cause the code to be deleted.
 b.   older versions could not be compatible with newer rendering tools causing cod not to run
-
 c.   code may not be displayed correctly leading to a broken website
-
 d.   no problems could arise from diffrent rendering tools between browsers
 ```
 The correct answer is c. Code may not be displayed correctly, leading to a broken website.
@@ -23,12 +21,13 @@ This is partially true in the context of older browsers (which may not support n
 d. No problems could arise from different rendering tools between browsers.
 This is false. Differences in rendering tools often lead to compatibility and display issues.
 
-# What is a potential impact of inconsistent support for web standards across different browsers?
+## What is a potential impact of inconsistent support for web standards across different browsers?
+```
 a. The website will always perform faster on every browser.
 b. Some elements of the website may not work or display correctly in certain browsers.
 c. The website will automatically adjust to the most compatible browser.
 d. No impact, as browsers automatically handle all discrepancies.
-
+```
 The correct answer is:
 
 b. Some elements of the website may not work or display correctly in certain browsers.
@@ -47,11 +46,13 @@ This is not necessarily true. While some modern browsers support many web standa
 d. No impact, as browsers automatically handle all discrepancies.
 This is false. Browsers do not automatically handle discrepancies. Developers need to account for browser differences to ensure a consistent experience.
 
-# How do internet speed affect browser
+## How do internet speed affect browser
+```
 a. nothing browsers have no effect on how browsers function 
 b. the internet being fast makes the browser not load
 c. the internet being slow and have bad connection can cause the internet to buffer and not load
 d.the internet being connected causes the browser to completly break
+```
 The correct answer is: c. The internet being slow and having a bad connection can cause the internet to buffer and not load.
 
 Explanation:
