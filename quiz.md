@@ -5,22 +5,6 @@ b. Older versions could not be compatible with newer rendering tools causing cod
 c. Code may not be displayed correctly leading to a broken website
 d. No problems could arise from diffrent rendering tools between browsers
 ```
-The correct answer is c. Code may not be displayed correctly, leading to a broken website.
-
-Explanation:
-Different rendering engines (such as Blink for Chrome, Gecko for Firefox, or WebKit for Safari) can interpret HTML, CSS, and JavaScript differently. This means that a website might display inconsistently or incorrectly across different browsers. For example, the layout could break, images might not load, or styling could be applied incorrectly, making the website look "broken" in certain browsers.
-
-Here’s why the other options are incorrect:
-
-a. Browsers using different rendering tools could cause the code to be deleted.
-This is not true. Browsers may render code differently, but they won't delete it.
-
-b. Older versions could not be compatible with newer rendering tools causing code not to run.
-This is partially true in the context of older browsers (which may not support newer web standards), but it doesn't specifically address rendering engines. It's more about feature support than rendering tool incompatibility.
-
-d. No problems could arise from different rendering tools between browsers.
-This is false. Differences in rendering tools often lead to compatibility and display issues.
-
 ## What is a potential impact of inconsistent support for web standards across different browsers?
 ```
 a. The website will always perform faster on every browser.
@@ -28,23 +12,6 @@ b. Some elements of the website may not work or display correctly in certain bro
 c. The website will automatically adjust to the most compatible browser.
 d. No impact, as browsers automatically handle all discrepancies.
 ```
-The correct answer is:
-
-b. Some elements of the website may not work or display correctly in certain browsers.
-
-Explanation:
-Inconsistent support for web standards across different browsers means that some features or elements may not work or display as intended in every browser. For example, certain CSS properties, HTML5 elements, or JavaScript features may not be supported in all browsers, leading to layout issues or broken functionality. Therefore, it's crucial to ensure compatibility through testing and fallback solutions.
-
-Here’s why the other options are incorrect:
-
-a. The website will always perform faster on every browser.
-This is not true. Performance can vary between browsers depending on how each one handles web content.
-
-c. The website will automatically adjust to the most compatible browser.
-This is not necessarily true. While some modern browsers support many web standards, they don’t automatically adjust to be fully compatible with all features.
-
-d. No impact, as browsers automatically handle all discrepancies.
-This is false. Browsers do not automatically handle discrepancies. Developers need to account for browser differences to ensure a consistent experience.
 
 ## How does internet speed affect a browser?
 ```
@@ -53,19 +20,5 @@ b. The internet speed being fast makes the browser not load
 c. Internet speed and poor connection will cause the internet to buffer and not load.
 d. The internet being connected causes the browser to completly break
 ```
-The correct answer is: c. The internet being slow and having a bad connection can cause the internet to buffer and not load.
 
-Explanation:
-When internet speed is slow or the connection is unstable, the browser might struggle to load websites, resulting in buffering or incomplete page loads. Websites with heavy content, such as videos or images, can take longer to load, and in some cases, the page might not load at all if the connection is too poor.
-
-Here’s why the other options are incorrect:
-
-a. Nothing, browsers have no effect on how browsers function.
-This is incorrect. Browsers can be affected by internet speed. For example, slow internet can lead to slow loading times or failed page loads.
-
-b. The internet being fast makes the browser not load.
-This is false. Faster internet speeds actually help the browser load pages more quickly, not slower.
-
-d. The internet being connected causes the browser to completely break.
-This is not true. Having an internet connection is necessary for a browser to function, but even with a poor or slow connection, browsers typically don't "completely break." They might experience delays or fail to load content, but they don't entirely stop working unless there's a more severe issue.
 
