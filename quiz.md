@@ -6,7 +6,7 @@ c. Code may not be displayed correctly leading to a broken website
 d. No problems could arise from diffrent rendering tools between browsers
 ```
 
-## What is a potential impact of inconsistent support for web standards across different browsers?
+## What is a potential impact of not updating browsers?
 ```
 a. The website will always perform faster on every browser.
 b. Some elements of the website may not work or display correctly in certain browsers.
